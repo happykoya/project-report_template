@@ -71,5 +71,6 @@
         "--keep"
     ],
     "editor.wordSeparators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?．。，、（）「」［］｛｝《》てにをはがのともへでや",
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "makefile.configureOnOpen": true
 }
