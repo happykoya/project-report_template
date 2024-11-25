@@ -1,7 +1,7 @@
 \ProvidesClass{classes/report}[2021/02/16 report]
 
 \RequirePackage{plautopatch}
-\LoadClass[a4paper, 11pt, uplatex, dvipdfmx]{jsreport}
+\LoadClass[a4paper, 10pt, uplatex, dvipdfmx]{jsreport}
 \plautopatchdisable{eso-pic}
 
 \usepackage{subfiles}

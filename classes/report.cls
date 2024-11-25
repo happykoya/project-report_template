@@ -8,7 +8,7 @@
 % 2カラム,A4,フォントサイズ9pt
 \LoadClass[
     paper=a4,
-    fontsize=11pt,
+    fontsize=9pt,
     disablejfam,
     head_space=30mm,
     foot_space=30mm,
